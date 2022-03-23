@@ -1,4 +1,5 @@
-### Hi there 👋
+### Repositorio Publico de miembros de IBM i en Español 👋
+### Fundado por Diego Kesselmann
 
 <!--
 **Ibmiespanol/ibmiespanol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
